@@ -89,11 +89,11 @@ streamlit run dashboard.py
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/Dashboard-view.png)
+![Dashboard](./screenshots/Dashboard-view.png)
 
-![Filter by Category](screenshots/Filter-Categories.png)
+![Filter by Category](./screenshots/Filter-Categories.png)
 
-![Filter by Risk Level](screenshots/Filter-risk-level.png)
+![Filter by Risk Level](./screenshots/Filter-risk-level.png)
 
 ---
 
