@@ -114,7 +114,7 @@ This project is meant to signal:
 
 Fresh local dashboard capture:
 
-![Current dashboard](./screenshots/dashboard-current.png)
+![Executive summary](./screenshots/executive-summary.png)
 
 ## Run Locally
 
