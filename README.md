@@ -112,9 +112,17 @@ This project is meant to signal:
 
 ## Dashboard Preview
 
-Fresh local dashboard capture:
+Current local dashboard captures:
 
 ![Executive summary](./screenshots/executive-summary.png)
+
+![Priority issues view](./screenshots/priority-issues-view.png)
+
+![Readiness and risk mix](./screenshots/readiness-and-risk-mix.png)
+
+![Owners and score breakdown](./screenshots/owners-and-score-breakdown.png)
+
+![Executive evidence table](./screenshots/executive-evidence-table.png)
 
 ## Run Locally
 
