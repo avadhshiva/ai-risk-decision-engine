@@ -114,7 +114,7 @@ This project is meant to signal:
 
 Current local dashboard captures:
 
-![Executive summary](./screenshots/executive-summary.png)
+![Executive overview](./screenshots/executive-overview.png)
 
 ![Priority issues view](./screenshots/priority-issues-view.png)
 
