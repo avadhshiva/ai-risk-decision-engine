@@ -116,11 +116,7 @@ Current local dashboard captures:
 
 ![Executive overview](./screenshots/executive-overview.png)
 
-![Priority issues view](./screenshots/priority-issues-view.png)
-
 ![Readiness and risk mix](./screenshots/readiness-and-risk-mix.png)
-
-![Owners and score breakdown](./screenshots/owners-and-score-breakdown.png)
 
 ![Executive evidence table](./screenshots/executive-evidence-table.png)
 
@@ -157,7 +153,7 @@ streamlit run dashboard.py
 Plain text:
 
 ```text
-Mobile app is crashing in Android 9 version phones
+Mobile app is crashing in Android 13 version phones
 ```
 
 Structured JSON:
@@ -167,7 +163,7 @@ Structured JSON:
   "domain": "generic",
   "project_name": "Mobile App Release",
   "milestone": "Version 2.0 Launch",
-  "status_summary": "Mobile app is crashing in Android 9 version phones"
+  "status_summary": "Mobile app is crashing in Android 13 version phones"
 }
 ```
 
@@ -176,7 +172,7 @@ Structured JSON:
 ```json
 {
   "domain": "generic",
-  "issue_title": "Mobile App Crashing on Android 9 Devices",
+  "issue_title": "Mobile App Crashing on Android 13 Devices",
   "project_name": "Mobile App Release",
   "milestone": "Version 2.0 Launch",
   "release_readiness_status": "NO_GO",
@@ -189,12 +185,12 @@ Structured JSON:
   "urgency": "Immediate Escalation",
   "root_cause": "Crash behavior is affecting a meaningful segment of the release population.",
   "business_impact": "Release quality and user trust are at risk if the issue remains unresolved.",
-  "recommended_action": "Investigate the Android 9 crash path immediately and validate a fix before release progression.",
+  "recommended_action": "Investigate the Android 13 crash path immediately and validate a fix before release progression.",
   "action_owner": "Engineering Manager",
   "explanation": "The issue affects core application behavior and directly impacts release confidence.",
   "evidence_signals": [
     "Mobile app crash reported",
-    "Android 9 devices affected"
+    "Android 13 devices affected"
   ],
   "escalation_needed": "Yes"
 }
